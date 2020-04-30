@@ -22,6 +22,7 @@ namespace IMC
             
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("O índice de massa corporal em questão é " + resultfinal + " kg/m².");
+            Console.ReadKey();
             Console.ForegroundColor = ConsoleColor.Gray;
 
 
